@@ -1,0 +1,13 @@
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\bin\Debug\netcoreapp3.1\Magic13.exe
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\bin\Debug\netcoreapp3.1\Magic13.deps.json
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\bin\Debug\netcoreapp3.1\Magic13.runtimeconfig.json
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\bin\Debug\netcoreapp3.1\Magic13.runtimeconfig.dev.json
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\bin\Debug\netcoreapp3.1\Magic13.dll
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\bin\Debug\netcoreapp3.1\Magic13.pdb
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\obj\Debug\netcoreapp3.1\Magic13.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\obj\Debug\netcoreapp3.1\Magic13.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\obj\Debug\netcoreapp3.1\Magic13.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\obj\Debug\netcoreapp3.1\Magic13.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\obj\Debug\netcoreapp3.1\Magic13.dll
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\obj\Debug\netcoreapp3.1\Magic13.pdb
+C:\Users\Sebastian\Desktop\Coding Dojo\C#\Magic13\obj\Debug\netcoreapp3.1\Magic13.genruntimeconfig.cache
